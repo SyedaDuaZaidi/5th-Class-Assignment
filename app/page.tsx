@@ -14,7 +14,7 @@
       </header>
 
         <div className="flex w-full bg-gray-200 h-12 items-center justify-center font-bold text-3xl ">
-      <h1>&quot; WELCOME " </h1>
+      <h1>&quot; WELCOME &quot;  </h1>
       </div>
        
         <div className="flex bg-slate-400 w-full h-screen justify-between place-items-center gap-10">
